@@ -1,0 +1,7 @@
+Mis aastal algas II Maailmasõda?;1939;1938;1940;1941;100
+Mis aastal algas I Maailmasõda?;1914;1915;1916;1918;150
+Mis oli Adolf Hitleri sünniriik?;Austria;Saksamaa;Ungari;Sveits;100
+Mis oli haiguse nimi, mis tappis 14. sajandil 1/3 euroopa populatsioonist?;Must Katk;Rõuged;Tuulerõuged;Siberi Katk;50
+Millist Eesti linna kutsuti enne II maailmasõda Eesti Siberiks?;Petseri;Valga;Narva;Võru;50
+Kes oli Eesti 50-kroonisel rahatähel?;Rudolf Tobias;Paul Keres;Kristjan Raud;Jakob Hurt;100
+Kes oli Eesti peaminister aastatel 2003-2005?;Juhan Parts;Siim Kallas; Andrus Ansip;Mart Laar;150

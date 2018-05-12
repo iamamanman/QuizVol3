@@ -1,0 +1,4 @@
+Mis on programmeerimiskeel, mille autor oli Hugo Rossum?;Python;Java;C;C++;50
+Mida tähendab Java?;Kohv;Tee;Kuum jook;Müstiline tegelane;100
+Mis on korporatsiooni nimi, kes lõi Java?;Sun Microsystems;Pizza;Oracle;AMD;150
+Milline neist pole tsükkel?;if;for;while;do-while;50

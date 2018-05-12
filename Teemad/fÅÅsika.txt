@@ -1,0 +1,3 @@
+Mis füüsikalist suurust mõõdetakse paskalites?;rõhk;kaal;energia;töö;100
+Milline neist ei kuulu Sl-põhiühikute hulka?;minut;kilogramm;amper;meeter;50
+Kes oli esimene Nobeli preemia füüsikaauhinna laureaat?;Wilhelm C. Röntgen; Albert Einstein; Pierre Curie;Karl F. Braun;150
